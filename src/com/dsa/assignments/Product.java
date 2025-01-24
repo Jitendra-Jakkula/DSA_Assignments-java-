@@ -1,5 +1,4 @@
 package com.dsa.assignments;
-
 import java.util.Arrays;
 
 public class Product {
